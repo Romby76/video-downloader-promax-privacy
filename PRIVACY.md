@@ -16,4 +16,4 @@ Video Downloader ProMax ("we", "our", or "us") is committed to protecting your p
 * We do not sell, trade, or rent user data to third parties. We do not share any data except for the sole purpose of validating your software license with our licensing server.
 
 ## 4. Contact Us
-If you have any questions about this Privacy Policy, please contact us at rombysandoval@gmail.com.
+If you have any questions about this Privacy Policy, please contact us at rombysandoval@ems-dev.com.
